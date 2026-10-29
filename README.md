@@ -4,6 +4,13 @@ Projeto em Python focado na análise e clusterização de dados do 2º Turno Pre
 
 ---
 
+## 🚀 Acesse o Aplicativo em Tempo Real
+
+Clique no link abaixo para interagir com o Dashboard diretamente pelo seu navegador:
+👉 **[CLIQUE AQUI PARA ABRIR O DASHBOARD WEB](COLE_AQUI_O_LINK_DO_SEU_APP)**
+
+---
+
 ## 📸 Demonstração do Dashboard
 
 Aqui estão os registros do painel interativo em execução com os gráficos responsivos e a tabela de inteligência artificial:
